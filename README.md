@@ -1,6 +1,6 @@
 ## General information
 
-*Website made following the FrontendSimplified's course
+Website made following the FrontendSimplified's course
 
 ## Technologies used
 
